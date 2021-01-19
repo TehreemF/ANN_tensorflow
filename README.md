@@ -1,2 +1,2 @@
-# ANN_tensorflow
-Neural network development and training using TensorFlow DNNRegressor class
+# Neural network development and training using TensorFlow DNNRegressor class
+This program develops a neural network to predict median_house_value in the california housing dataset (https://download.mlcc.google.com/mledu-datasets/california_housing_train.csv) using synthetic features. Different parameteres of the model are adjusted to minimize the root mean squared error (RMSE) and the model is then tested on california housing test set (https://download.mlcc.google.com/mledu-datasets/california_housing_test.csv) and gives an accuracy of 99.067.
