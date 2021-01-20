@@ -4,4 +4,4 @@ This program develops a neural network to predict median_house_value in the cali
 ### Update:
 Trained and tested the same ANN on heart dataset to classify whether the patient is positive or negative for the heart disease. The model gave an RMSE of only 0.1318.
 
-Tools and Technologies used: Python, TensorFlow, Pandas, Numpy
+*Tools and Technologies used: Python, TensorFlow, Pandas, Numpy*
